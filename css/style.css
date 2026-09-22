@@ -1,0 +1,325 @@
+body{
+    background-image: url("../img/pink_scrapbook.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 0;
+}
+
+img,
+video{
+    border: 7px solid #fff4e6;
+    outline: 3px solid rgba(241, 27, 105, 0.75);
+    border-radius: 14px;
+    box-shadow: 0 5px 10px rgba(92, 25, 46, 0.22);
+    box-sizing: border-box;
+}
+
+.head{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    border: 7px solid #fff4e6;
+    outline: 3px solid rgba(241, 27, 105, 0.75);
+    border-radius: 24px;
+    width: 540px;
+    margin-left: auto;
+    margin-right: 400px;
+    background-color: #FFF4E6;
+    position: relative;
+    z-index: 10;
+}
+
+.head h1{
+    font-family: fantasy;
+    text-align: center;
+    font-size: 38px;
+    color: rgb(205, 23, 92);
+    text-shadow: 2px 2px 0 rgba(241, 27, 105, 0.18);
+}
+
+.head p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    font-size: 18px;
+    color: black;
+}
+
+.p1{
+    background-color: rgb(254, 252, 239);
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    padding: 20px;
+    border: 8px solid rgb(241, 27, 105);
+    border-radius: 24px;
+    width: 480px;
+    height: 580px;
+    margin-left: auto;
+    margin-right: 150px;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.p1 img{
+        width: 400px;
+        height: 500px;
+    }
+
+.p2{
+    background-color: rgb(254, 252, 239);
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    padding: 20px;
+    border: 8px solid rgb(241, 27, 105);
+    width: 480px;
+    height: 580px;
+    margin-left: auto;
+    margin-right: 150px;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.p2 img{
+        width: 400px;
+        height: 500px;
+    }
+
+.p3{
+    background-color: rgb(254, 252, 239);
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    padding: 20px;
+    border: 8px solid rgb(241, 27, 105);
+    width: 480px;
+    height: 580px;
+    margin-left: auto;
+    margin-right: 150px;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.p3 img{
+        width: 400px;
+        height: 500px;
+    }
+
+.p4{
+     background-color: rgb(254, 252, 239);
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    padding: 20px;
+    border: 8px solid rgb(241, 27, 105);
+    width: 480px;
+    height: 580px;
+    margin-left: auto;
+    margin-right: 150px;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.p4 img{
+        width: 400px;
+        height: 500px;
+    }
+
+.p5{
+    background-color: rgb(254, 252, 239);
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    padding: 20px;
+    border: 8px solid rgb(241, 27, 105);
+    width: 480px;
+    height: 580px;
+    margin-left: auto;
+    margin-right: 150px;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.p5 img{
+        width: 400px;
+        height: 500px;
+    }
+
+.p6{
+    background-color: rgb(254, 252, 239);
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    padding: 20px;
+    border: 8px solid rgb(241, 27, 105);
+    width: 480px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: 150px;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.p6 video{
+    width: 300px;
+    height: 200px;
+}
+
+.p7{
+    background-color: rgb(254, 252, 239);
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    padding: 20px;
+    border: 8px solid rgb(241, 27, 105);
+    width: 480px;
+    height: 580px;
+    margin-left: auto;
+    margin-right: 150px;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.p8{
+    background-color: rgb(254, 252, 239);
+    display: flex;
+    align-items: center;
+    gap: 25px;
+    padding: 15px;
+    border: 8px solid rgb(241, 27, 105);
+    width: 480px;
+    height: 580px;
+    margin-left: auto;
+    margin-right: 150px;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.p9{
+    background-color: rgb(254, 252, 239);
+    display: flex;
+    align-items: center;
+    gap: 25px;
+    padding: 15px;
+    border: 8px solid rgb(241, 27, 105);
+    width: 480px;
+    height: 580px;
+    margin-left: auto;
+    margin-right: 150px;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.p9 img{
+        width: 400px;
+        height: 450px;
+    }
+
+.p10{
+    background-color: rgb(254, 252, 239);
+    display: flex;
+    align-items: center;
+    gap: 25px;
+    padding: 15px;
+    border: 8px solid rgb(241, 27, 105);
+    width: 480px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: 150px;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.p10 img{
+        width: 350px;
+        height: 280px;
+    }
+
+.p11{
+    background-color: rgb(254, 252, 239);
+    display: flex;
+    align-items: center;
+    gap: 25px;
+    padding: 15px;
+    border: 8px solid rgb(241, 27, 105);
+    width: 480px;
+    height: 580px;
+    margin-left: auto;
+    margin-right: 150px;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.p12{
+    background-color: rgb(254, 252, 239);
+    display: flex;
+    align-items: center;
+    gap: 25px;
+    padding: 15px;
+    border: 8px solid rgb(241, 27, 105);
+    width: 480px;
+    height: 580px;
+    margin-left: auto;
+    margin-right: 150px;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.p12 img{
+        width: 400px;
+        height: 450px;
+    }
+
+video{
+    width: 350px;
+    height: 450px;
+}
+
+.youtube{
+    width: 350px;
+    height: 450px;
+}
+
+.arrow{
+    position: fixed;
+    left: 20px;
+    bottom: 15px;
+    width: 100px;
+    height: auto;
+    margin: 0px;
+    z-index: 10px;
+    border: none;
+    outline: none;
+    border-radius: 0px;
+    box-shadow: none;
+}
+
+.rabbit2{
+    position: fixed;
+    left: 190px;
+    top: 290px;
+    width: 300px;
+    height: auto;
+    margin: 0px;
+    z-index: 11;
+    border: none;
+    outline: none;
+    border-radius: 0px;
+    box-shadow: none;
+}
+
+.butterfly_2{
+    position: fixed;
+    left: 380px;
+    top: 220px;
+    width: 250px;
+    height: auto;
+    margin: 0px;
+    z-index: 9;
+    border: none;
+    outline: none;
+    border-radius: 0px;
+    box-shadow: none;
+    pointer-events: none;
+}

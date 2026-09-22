@@ -1,0 +1,52 @@
+
+.words{
+    margin-left: 370px;
+    margin-top: 55px;
+    position: relative;
+    z-index: 1;
+}
+
+.gif {
+    width: 120px;
+    height: auto;
+    display: block;
+    margin-left: 370px;
+    position: relative;
+    z-index: 1;
+}
+
+body{
+    background-color: rgb(255, 206, 214);
+    border: 3px solid rgb(241, 27, 105);
+    box-sizing: border-box;
+    margin: 0;
+    min-height: 100vh;
+}
+
+.arrow2{
+    position: fixed;
+    right: 20px;
+    bottom: 15px;
+    width: 100px;
+    height: auto;
+    margin: 0px;
+    z-index: 2;
+    border: none;
+    outline: none;
+    border-radius: 0px;
+    box-shadow: none;
+}
+
+.flower{
+    position: fixed;
+    inset: 0;
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    border: none;
+    outline: none;
+    border-radius: 0;
+    box-shadow: none;
+    pointer-events: none;
+    z-index: 0;
+}
